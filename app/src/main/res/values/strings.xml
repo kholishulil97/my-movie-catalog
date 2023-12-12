@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Get the Book</string>
+    <string name="app_name">My Movie Catalog</string>
+    <string name="hello_blank_fragment_movie">Hello blank Movie fragment</string>
+    <string name="hello_blank_fragment_tvshows">Hello blank TV Show fragment</string>
+    <string name="hello_blank_fragment_favorite">Hello blank Favorite fragment</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_shows">TV Shows</string>
+    <string name="title_favorite">Favorite</string>
 </resources>
