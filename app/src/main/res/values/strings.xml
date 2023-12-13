@@ -6,4 +6,8 @@
     <string name="title_movie">Movies</string>
     <string name="title_tv_shows">TV Shows</string>
     <string name="title_favorite">Favorite</string>
+
+    <string name="notification_empty">No data received</string>
+    <string name="notification_error">Oops… Something went wrong</string>
+    <string name="notification_empty_favorite">You have not selected favorite item</string>
 </resources>
